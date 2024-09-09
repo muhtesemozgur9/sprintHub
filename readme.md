@@ -70,9 +70,9 @@ To set up SprintHub on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone [[<repository_url>](https://github.com/muhtesemozgur9/sprintHub)](https://github.com/muhtesemozgur9/sprintHub.git)
+   git clone [https://github.com/muhtesemozgur9/sprintHub.git](https://github.com/muhtesemozgur9/sprintHub.git)
    cd SprintHub
-   ```
+    ```
 
 2. **Set up Docker environment**:
    Ensure Docker is installed and running on your machine. You can use the provided `docker-compose.yml` file to run the Laravel app and the MySQL database:
