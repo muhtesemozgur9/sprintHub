@@ -70,7 +70,7 @@ To set up SprintHub on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone [[<repository_url>](https://github.com/muhtesemozgur9/sprintHub)](https://github.com/muhtesemozgur9/sprintHub.git)
    cd SprintHub
    ```
 
